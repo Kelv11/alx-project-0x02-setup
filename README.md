@@ -14,6 +14,7 @@ This project serves as a practical introduction to:
 
 ## Project Structure
 
+```
 alx-project-0x02/
 ├── components/
 │ ├── common/
@@ -37,6 +38,7 @@ alx-project-0x02/
 ├── public/
 ├── styles/
 └── Configuration files
+```
 
 ## Features Implemented
 
